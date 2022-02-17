@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Calculadora</title>
+
+<script>
+
+var num1=prompt("Introduce el primer n°");
+
+var num2=prompt("Introduce el segundo n°");
+
+var operacion=prompt("¿Qué operación deseas realizar? suma/resta/multiplicación/división");
+
+if(operacion=="suma") {
+
+alert(num1+num2);
+    
+}
+
+
+
+</script>
+</head>
+
+<body>
+</body>
+</html>
